@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9A6157470CC2E88C005A40E5 /* A4-TREVOR TOMESH(PART 2) */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* A4-TREVOR TOMESH(PART 2) */;
+		codeSenseManager = 9A61574C0CC2E8AC005A40E5 /* Code sense */;
+		executables = (
+			9A6157470CC2E88C005A40E5 /* A4-TREVOR TOMESH(PART 2) */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 214341931;
+			PBXWorkspaceStateSaveDate = 214341931;
+		};
+		sourceControlManager = 9A61574B0CC2E8AC005A40E5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 630}}";
+			sepNavSelRange = "{960, 0}";
+			sepNavVisRect = "{{0, 68}, {961, 562}}";
+			sepNavWindowFrame = "{{22, 87}, {1000, 691}}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* A4-TREVOR TOMESH(PART 2) */ = {
+		activeExec = 0;
+		executables = (
+			9A6157470CC2E88C005A40E5 /* A4-TREVOR TOMESH(PART 2) */,
+		);
+	};
+	9A6157470CC2E88C005A40E5 /* A4-TREVOR TOMESH(PART 2) */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "A4-TREVOR TOMESH(PART 2)";
+		sourceDirectories = (
+		);
+	};
+	9A61574B0CC2E8AC005A40E5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	9A61574C0CC2E8AC005A40E5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

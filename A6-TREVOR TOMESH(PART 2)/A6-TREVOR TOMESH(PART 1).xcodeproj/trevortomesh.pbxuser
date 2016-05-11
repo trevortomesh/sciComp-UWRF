@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9A1A809C0CEA865600BEE09B /* A6-TREVOR TOMESH(PART 1) */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* A6-TREVOR TOMESH(PART 1) */;
+		codeSenseManager = 9A1A80A10CEA867600BEE09B /* Code sense */;
+		executables = (
+			9A1A809C0CEA865600BEE09B /* A6-TREVOR TOMESH(PART 1) */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 216698285;
+			PBXWorkspaceStateSaveDate = 216698285;
+		};
+		sourceControlManager = 9A1A80A00CEA867600BEE09B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* A6-TREVOR TOMESH(PART 1).c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {527, 557}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRect = "{{0, 0}, {527, 557}}";
+			sepNavWindowFrame = "{{224, 92}, {566, 686}}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* A6-TREVOR TOMESH(PART 1) */ = {
+		activeExec = 0;
+		executables = (
+			9A1A809C0CEA865600BEE09B /* A6-TREVOR TOMESH(PART 1) */,
+		);
+	};
+	9A1A809C0CEA865600BEE09B /* A6-TREVOR TOMESH(PART 1) */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "A6-TREVOR TOMESH(PART 1)";
+		sourceDirectories = (
+		);
+	};
+	9A1A80A00CEA867600BEE09B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	9A1A80A10CEA867600BEE09B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

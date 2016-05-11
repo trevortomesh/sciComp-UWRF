@@ -1,0 +1,131 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9A6485A90CCEDE6F00062F02 /* A5-TREVOR TOMESH (PART 2) */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* A5-TREVOR TOMESH (PART 2) */;
+		addToTargets = (
+			8DD76FA90486AB0100D96B5E /* A5-TREVOR TOMESH (PART 2) */,
+		);
+		breakpoints = (
+			9A34368A0CD1012D00307638 /* main.c:17 */,
+		);
+		breakpointsGroup = 9A6485E80CCEF5DC00062F02 /* XCBreakpointsBucket */;
+		codeSenseManager = 9A6485B40CCEDE7500062F02 /* Code sense */;
+		executables = (
+			9A6485A90CCEDE6F00062F02 /* A5-TREVOR TOMESH (PART 2) */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 215028797;
+			PBXWorkspaceStateSaveDate = 215028797;
+		};
+		sourceControlManager = 9A6485B30CCEDE7500062F02 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 672}}";
+			sepNavSelRange = "{1017, 0}";
+			sepNavVisRect = "{{0, 96}, {961, 562}}";
+			sepNavWindowFrame = "{{349, 78}, {1000, 691}}";
+		};
+	};
+	8DD76FA90486AB0100D96B5E /* A5-TREVOR TOMESH (PART 2) */ = {
+		activeExec = 0;
+		executables = (
+			9A6485A90CCEDE6F00062F02 /* A5-TREVOR TOMESH (PART 2) */,
+		);
+	};
+	9A286E650CCFB2760058DB7A /* function.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {961, 1092}}";
+			sepNavSelRange = "{2009, 0}";
+			sepNavVisRect = "{{0, 0}, {961, 562}}";
+			sepNavWindowFrame = "{{135, 72}, {1000, 691}}";
+		};
+	};
+	9A34368A0CD1012D00307638 /* main.c:17 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 08FB7796FE84155DC02AAC07 /* main.c */;
+		functionName = "main()";
+		hitCount = 0;
+		lineNumber = 17;
+		modificationTime = 215023917.317214;
+		state = 1;
+	};
+	9A6485A90CCEDE6F00062F02 /* A5-TREVOR TOMESH (PART 2) */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "A5-TREVOR TOMESH (PART 2)";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9A6485B30CCEDE7500062F02 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	9A6485B40CCEDE7500062F02 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	9A6485E80CCEF5DC00062F02 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "A5-TREVOR TOMESH (PART 2)";
+		objects = (
+			9A34368A0CD1012D00307638 /* main.c:17 */,
+		);
+	};
+}
